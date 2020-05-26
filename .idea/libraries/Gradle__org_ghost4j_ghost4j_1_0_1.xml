@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ghost4j:ghost4j:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghost4j/ghost4j/1.0.1/a026bc023a623b43df336670ceb00eba355bbc81/ghost4j-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghost4j/ghost4j/1.0.1/2e7426ed3ba127e49ac6a0a3c0354f4c35fc9a7f/ghost4j-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
